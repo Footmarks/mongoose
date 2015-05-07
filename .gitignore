@@ -1,7 +1,8 @@
 lib-cov
 **.swp
 *.sw*
-# node_modules/
+node_modules/
+!node_modules/mongodb
 *.orig
 benchmarks/benchmarks
 benchmarks/benchmarks2
