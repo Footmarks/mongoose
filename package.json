@@ -23,7 +23,7 @@
     "bson": "~0.3",
     "hooks-fixed": "1.0.1",
     "kareem": "1.0.0",
-    "footmarks/node-mongodb-native": "*",
+    "mongodb": "footmarks/node-mongodb-native",
     "mpath": "0.1.1",
     "mpromise": "0.5.4",
     "mquery": "1.4.0",
@@ -75,7 +75,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/LearnBoost/mongoose.git"
+    "url": "git://github.com/Footmarks/mongoose.git"
   },
   "homepage": "http://mongoosejs.com",
   "browser": "lib/browser.js"
